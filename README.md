@@ -1,4 +1,4 @@
-# actions-playwright-google
+# panik_parsing
 
 ## Обзор
 Утилита на Playwright для сценария CryptoPanic: сбор новостей, раскрытие оригинальных ссылок, догрузка текста источников и выгрузка результата в Google Apps Script.
