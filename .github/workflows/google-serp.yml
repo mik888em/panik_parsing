@@ -15,8 +15,8 @@ on:
         description: 'URL для демо-скрапинга (используется при mode=demo)'
         required: false
         default: 'https://cryptopanic.com'
-  schedule:
-    - cron: "*/7 * * * *"   # каждые 7 минут
+#  schedule:
+#    - cron: "*/7 * * * *"   # каждые 7 минут
 
 permissions:
   contents: read
